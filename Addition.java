@@ -11,5 +11,6 @@ class Addition
                 num2=s.nextInt();
                 res=num1+num2;
                 System.out.println("The result is "+res);
+                System.out.println"Thank You");
         }
 }
