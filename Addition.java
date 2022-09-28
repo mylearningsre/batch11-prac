@@ -4,7 +4,8 @@ class Addition
         {
                 int num1,num2,res;
                 Scanner s = new Scanner(System.in);
-                System.out.println("Enter num1 value");
+                System.out.println("welcome to Devops GC{P course");
+		System.out.println("Enter num1 value");
                 num1=s.nextInt();
                 System.out.println("Enter num2 value");
                 num2=s.nextInt();
